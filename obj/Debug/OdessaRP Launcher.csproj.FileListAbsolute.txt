@@ -1,0 +1,10 @@
+C:\Users\JensD\Desktop\FievM Launchere\OdessaRP Launcher\bin\Debug\OdessaRP Launcher.exe.config
+C:\Users\JensD\Desktop\FievM Launchere\OdessaRP Launcher\bin\Debug\OdessaRP Launcher.exe
+C:\Users\JensD\Desktop\FievM Launchere\OdessaRP Launcher\bin\Debug\OdessaRP Launcher.pdb
+C:\Users\JensD\Desktop\FievM Launchere\OdessaRP Launcher\obj\Debug\OdessaRP Launcher.csprojAssemblyReference.cache
+C:\Users\JensD\Desktop\FievM Launchere\OdessaRP Launcher\obj\Debug\OdessaRP_Launcher.Form1.resources
+C:\Users\JensD\Desktop\FievM Launchere\OdessaRP Launcher\obj\Debug\OdessaRP_Launcher.Properties.Resources.resources
+C:\Users\JensD\Desktop\FievM Launchere\OdessaRP Launcher\obj\Debug\OdessaRP Launcher.csproj.GenerateResource.cache
+C:\Users\JensD\Desktop\FievM Launchere\OdessaRP Launcher\obj\Debug\OdessaRP Launcher.csproj.CoreCompileInputs.cache
+C:\Users\JensD\Desktop\FievM Launchere\OdessaRP Launcher\obj\Debug\OdessaRP Launcher.exe
+C:\Users\JensD\Desktop\FievM Launchere\OdessaRP Launcher\obj\Debug\OdessaRP Launcher.pdb
